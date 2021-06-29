@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'uncracked_free_trialregular';
+	src: url(../../assets/fonts/uncrackedfreetrial-x3wjk-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/uncrackedfreetrial-x3wjk-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
