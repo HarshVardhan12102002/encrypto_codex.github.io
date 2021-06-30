@@ -40,3 +40,11 @@
   font-weight: 900;
 }
 
+#portfolio {
+  background: var(--bs-purple);
+}
+
+.border-pretty {
+  position: inherit;
+}
+
